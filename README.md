@@ -1,1 +1,1 @@
-azerty
+# Foundry Smart Contract Lottery
